@@ -1,0 +1,47 @@
+36 Kick
+37 Snare Rimshot L
+38 Snare Open Hit L
+39 Snare Rimshot R
+40 Snare Open Hit R
+41 Snare Shallow Rimshot
+42 Snare Side Stick
+43 Snare Shallow Hit
+44 Snare Rim Click
+45 Ride Pearl (double)
+46 Cymbal 1 (double)
+47 Cowbell - Mid Tom
+48 HH Pedal Closed
+49 HH Closed 1 Pearl
+50 HH Closed 1 Shaft
+51 HH Closed 2 Pearl
+52 HH Closed 2 Shaft
+53 HH Closed Bell
+54 HH Open A
+55 HH Open B
+56 HH Open C
+57 HH Open D
+58 HH Open Bell
+59 HH Pedal Open
+60 Ride Pearl
+61 Ride Bell
+62 Ride Shaft
+63 Ride Choke
+64 
+65 Tom 4
+66 Tom 4 Rim
+67 Tom 3
+68 Tom 3 Rim
+69 Tom 2
+70 Tom 2 Rim
+71 Tom 1
+72 Tom 1 Rim
+73 
+74 
+75 Sticks
+76 
+77 Cymbal 1
+78 Cymbal 1 Choke
+79 Cymbal 2
+80 Cymbal 2 Choke
+81 Cymbal 3
+82 Cymbal 3 Choke
