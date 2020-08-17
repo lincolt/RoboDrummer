@@ -1,6 +1,6 @@
 import telegram
 
-TOKEN = '776293533:AAE6f_Ob6XCccZoEyVh0dr0_oX0Uxdy--I4'
+TOKEN = ''
 
 class TelegramBot:
     def __init__(self, token_file=None):
